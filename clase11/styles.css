@@ -1,0 +1,18 @@
+body{
+    background-color: green
+}
+.nav{
+    background-color: white;
+}
+section{
+    background-color: rgb(148, 76, 9);
+}
+footer{
+    background-color: rgb(148, 76, 9);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
